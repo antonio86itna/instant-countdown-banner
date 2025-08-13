@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Instant Countdown Banner 1.2.2\n"
+"POT-Creation-Date: 2025-08-13 08:22+0000\n"
+"PO-Revision-Date: 2025-08-13 08:22+0000\n"
+"Last-Translator: WPezo <info@wpezo.com>\n"
+"Language-Team: WPezo <info@wpezo.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: instant-countdown-banner\n"
+
+msgid "Accent"
+msgstr ""
+
+msgid "Add body offset when sticky"
+msgstr ""
+
+msgid "Allow dismiss"
+msgstr ""
+
+msgid "Background"
+msgstr ""
+
+msgid "Behavior"
+msgstr ""
+
+msgid "Bottom"
+msgstr ""
+
+msgid "Button URL"
+msgstr ""
+
+msgid "Button label"
+msgstr ""
+
+msgid "CTA (optional)"
+msgstr ""
+
+msgid "Changes update in real-time. Remember to save to apply them sitewide."
+msgstr ""
+
+msgid "Colors"
+msgstr ""
+
+msgid "Copy shortcode"
+msgstr ""
+
+msgid "Deadline"
+msgstr ""
+
+msgid "Enable banner"
+msgstr ""
+
+msgid "Everywhere"
+msgstr ""
+
+msgid "Everywhere except URLs matching patterns"
+msgstr ""
+
+msgid "Hide for logged-in users"
+msgstr ""
+
+msgid "Instant Countdown Banner"
+msgstr ""
+
+msgid "Live preview"
+msgstr ""
+
+msgid "Message after deadline"
+msgstr ""
+
+msgid "Message before deadline"
+msgstr ""
+
+msgid "Offer ended"
+msgstr ""
+
+msgid "Offer ends in {time}"
+msgstr ""
+
+msgid "One pattern per line. Wildcards (*) supported. You can use full URLs or paths (e.g., /sale/*)."
+msgstr ""
+
+msgid "Only on URLs matching patterns"
+msgstr ""
+
+msgid "Position"
+msgstr ""
+
+msgid "Show message after deadline"
+msgstr ""
+
+msgid "Show the banner sitewide"
+msgstr ""
+
+msgid "Silence days after dismiss"
+msgstr ""
+
+msgid "Site preview"
+msgstr ""
+
+msgid "Sticky"
+msgstr ""
+
+msgid "Targeting"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "This simulates a site UI to preview your banner in real-time before saving."
+msgstr ""
+
+msgid "Top"
+msgstr ""
+
+msgid "Use {time} as placeholder (e.g., \"Ends in {time}\")."
+msgstr ""
+
+msgid "Uses the site timezone (Settings → General)."
+msgstr ""
+
